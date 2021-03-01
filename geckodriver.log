@@ -1,0 +1,12 @@
+1614540039989	geckodriver	INFO	Listening on 127.0.0.1:53161
+1614540043045	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kelvin\\AppData\\Local\\Temp\\rust_mozprofileN0CCUs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614540044380	Marionette	INFO	Listening on port 53169
+1614540044592	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614540046242	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1614540071553	geckodriver	INFO	Listening on 127.0.0.1:53281
+1614540074597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kelvin\\AppData\\Local\\Temp\\rust_mozprofileNmswCE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614540075613	Marionette	INFO	Listening on port 53290
+1614540075626	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614540081939	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
