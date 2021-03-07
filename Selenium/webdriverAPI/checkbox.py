@@ -19,3 +19,15 @@ radiobuttons =  driver.find_elements_by_xpath("//input[@type='radio']")
 radiobuttons[2].click()
 
 assert radiobuttons[2].is_selected()
+
+displayBtn = driver.find_element_by_id('displayed-text').is_displayed()
+
+assert displayBtn == True
+
+if displayBtn:
+    driver.find_element_by_id('hide-textbox').click()
+
+
+assert not driver.find_element_by_id('displayed-text').is_displayed()
+
+driver.close()
