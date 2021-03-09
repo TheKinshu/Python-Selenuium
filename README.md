@@ -1,6 +1,6 @@
 # Python-Selenuium
 
-This is my collection of the course work for Python Selenuium class.
+This is my collection of the course works for Python Selenuium class.
 
 Course:
 https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language/
