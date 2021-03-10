@@ -1,0 +1,4 @@
+2021-03-10 14:46:00,272 :INFO :test_logging :Information statement
+2021-03-10 14:46:00,272 :WARNING :test_logging :Something is in warning mode
+2021-03-10 14:46:00,272 :ERROR :test_logging :A major error has occured
+2021-03-10 14:46:00,272 :CRITICAL :test_logging :A critical error has occured
