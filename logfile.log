@@ -2,3 +2,35 @@
 2021-03-10 14:46:00,272 :WARNING :test_logging :Something is in warning mode
 2021-03-10 14:46:00,272 :ERROR :test_logging :A major error has occured
 2021-03-10 14:46:00,272 :CRITICAL :test_logging :A critical error has occured
+2021-03-11 15:42:14,874 :INFO :test_logging :Information statement
+2021-03-11 15:42:14,874 :WARNING :test_logging :Something is in warning mode
+2021-03-11 15:42:14,874 :ERROR :test_logging :A major error has occured
+2021-03-11 15:42:14,874 :CRITICAL :test_logging :A critical error has occured
+2021-03-11 15:44:35,721 :INFO :test_logging :Information statement
+2021-03-11 15:44:35,721 :WARNING :test_logging :Something is in warning mode
+2021-03-11 15:44:35,722 :ERROR :test_logging :A major error has occured
+2021-03-11 15:44:35,722 :CRITICAL :test_logging :A critical error has occured
+2021-03-11 15:45:33,676 :INFO :test_logging :Information statement
+2021-03-11 15:45:33,676 :WARNING :test_logging :Something is in warning mode
+2021-03-11 15:45:33,676 :ERROR :test_logging :A major error has occured
+2021-03-11 15:45:33,676 :CRITICAL :test_logging :A critical error has occured
+2021-03-11 15:46:38,221 :INFO :test_logging :Information statement
+2021-03-11 15:46:38,221 :WARNING :test_logging :Something is in warning mode
+2021-03-11 15:46:38,221 :ERROR :test_logging :A major error has occured
+2021-03-11 15:46:38,221 :CRITICAL :test_logging :A critical error has occured
+2021-03-11 15:47:16,962 :INFO :test_logging :Information statement
+2021-03-11 15:47:16,962 :WARNING :test_logging :Something is in warning mode
+2021-03-11 15:47:16,962 :ERROR :test_logging :A major error has occured
+2021-03-11 15:47:16,962 :CRITICAL :test_logging :A critical error has occured
+2021-03-11 15:48:11,316 :INFO :test_logging :Information statement
+2021-03-11 15:48:11,316 :WARNING :test_logging :Something is in warning mode
+2021-03-11 15:48:11,316 :ERROR :test_logging :A major error has occured
+2021-03-11 15:48:11,316 :CRITICAL :test_logging :A critical error has occured
+2021-03-11 15:53:02,566 :INFO :test_logging :Information statement
+2021-03-11 15:53:02,566 :WARNING :test_logging :Something is in warning mode
+2021-03-11 15:53:02,566 :ERROR :test_logging :A major error has occured
+2021-03-11 15:53:02,566 :CRITICAL :test_logging :A critical error has occured
+2021-03-13 16:11:22,615 :INFO :test_logging :Information statement
+2021-03-13 16:11:22,624 :WARNING :test_logging :Something is in warning mode
+2021-03-13 16:11:22,625 :ERROR :test_logging :A major error has occured
+2021-03-13 16:11:22,625 :CRITICAL :test_logging :A critical error has occured
