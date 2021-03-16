@@ -5,7 +5,7 @@ import selenium
 # browser exposes an executable file
 # Through Selenium test we need to invoke the executable file which will then -
 # invoke the actual browser
-driver = webdriver.Chrome(executable_path='chromedriver.exe')
+driver = webdriver.Chrome(executable_path='geckodriver.exe')
 # driver = webdriver.Firefox(executable_path='geckodriver.exe')
 
 # Maximize the browser window

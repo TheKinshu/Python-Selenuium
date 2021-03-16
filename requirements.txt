@@ -1,2 +1,3 @@
 pytest.html
 selenium
+openpyxl

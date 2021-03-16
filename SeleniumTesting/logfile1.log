@@ -1,0 +1,236 @@
+2021-03-15 14:51:22,701 :INFO :test_formSubmission :Entering Information
+2021-03-15 14:51:22,701 :INFO :test_formSubmission :--------------------
+2021-03-15 14:51:22,826 :INFO :test_formSubmission :Name: Kev, Email: test@gmail.com Gender: Male
+2021-03-15 14:51:22,826 :INFO :test_formSubmission :--------------------
+2021-03-15 14:51:22,827 :INFO :test_formSubmission :End of information
+2021-03-15 14:51:22,869 :INFO :test_formSubmission :Web page message: ×
+Success! The Form has been submitted successfully!.
+2021-03-15 14:51:23,211 :INFO :test_formSubmission :Entering Information
+2021-03-15 14:51:23,211 :INFO :test_formSubmission :Entering Information
+2021-03-15 14:51:23,211 :INFO :test_formSubmission :--------------------
+2021-03-15 14:51:23,211 :INFO :test_formSubmission :--------------------
+2021-03-15 14:51:23,328 :INFO :test_formSubmission :Name: Kelvin, Email: test123124@gmail.com Gender: Male
+2021-03-15 14:51:23,328 :INFO :test_formSubmission :Name: Kelvin, Email: test123124@gmail.com Gender: Male
+2021-03-15 14:51:23,328 :INFO :test_formSubmission :--------------------
+2021-03-15 14:51:23,328 :INFO :test_formSubmission :--------------------
+2021-03-15 14:51:23,328 :INFO :test_formSubmission :End of information
+2021-03-15 14:51:23,328 :INFO :test_formSubmission :End of information
+2021-03-15 14:51:23,365 :INFO :test_formSubmission :Web page message: ×
+Success! The Form has been submitted successfully!.
+2021-03-15 14:51:23,365 :INFO :test_formSubmission :Web page message: ×
+Success! The Form has been submitted successfully!.
+2021-03-15 14:53:13,367 :INFO :test_formSubmission :Entering Information
+2021-03-15 14:53:13,367 :INFO :test_formSubmission :--------------------
+2021-03-15 14:53:13,493 :INFO :test_formSubmission :Name: Kev, Email: test@gmail.com Gender: Male
+2021-03-15 14:53:13,494 :INFO :test_formSubmission :--------------------
+2021-03-15 14:53:13,494 :INFO :test_formSubmission :End of information
+2021-03-15 14:53:13,537 :INFO :test_formSubmission :Web page message: ×
+Success! The Form has been submitted successfully!.
+2021-03-15 14:53:13,859 :INFO :test_formSubmission :Entering Information
+2021-03-15 14:53:13,859 :INFO :test_formSubmission :Entering Information
+2021-03-15 14:53:13,859 :INFO :test_formSubmission :--------------------
+2021-03-15 14:53:13,859 :INFO :test_formSubmission :--------------------
+2021-03-15 14:53:13,979 :INFO :test_formSubmission :Name: Kelvin, Email: test123124@gmail.com Gender: Male
+2021-03-15 14:53:13,979 :INFO :test_formSubmission :Name: Kelvin, Email: test123124@gmail.com Gender: Male
+2021-03-15 14:53:13,979 :INFO :test_formSubmission :--------------------
+2021-03-15 14:53:13,979 :INFO :test_formSubmission :--------------------
+2021-03-15 14:53:13,979 :INFO :test_formSubmission :End of information
+2021-03-15 14:53:13,979 :INFO :test_formSubmission :End of information
+2021-03-15 14:53:14,013 :INFO :test_formSubmission :Web page message: ×
+Success! The Form has been submitted successfully!.
+2021-03-15 14:53:14,013 :INFO :test_formSubmission :Web page message: ×
+Success! The Form has been submitted successfully!.
+2021-03-15 14:55:08,769 :INFO :test_formSubmission :Entering Information
+2021-03-15 14:55:08,769 :INFO :test_formSubmission :--------------------
+2021-03-15 14:55:08,896 :INFO :test_formSubmission :Name: Kev, Email: test@gmail.com Gender: Male
+2021-03-15 14:55:08,896 :INFO :test_formSubmission :--------------------
+2021-03-15 14:55:08,896 :INFO :test_formSubmission :End of information
+2021-03-15 14:55:08,940 :INFO :test_formSubmission :Web page message: ×
+Success! The Form has been submitted successfully!.
+2021-03-15 14:55:09,261 :INFO :test_formSubmission :Entering Information
+2021-03-15 14:55:09,261 :INFO :test_formSubmission :Entering Information
+2021-03-15 14:55:09,262 :INFO :test_formSubmission :--------------------
+2021-03-15 14:55:09,262 :INFO :test_formSubmission :--------------------
+2021-03-15 14:55:09,378 :INFO :test_formSubmission :Name: Kelvin, Email: test123124@gmail.com Gender: Male
+2021-03-15 14:55:09,378 :INFO :test_formSubmission :Name: Kelvin, Email: test123124@gmail.com Gender: Male
+2021-03-15 14:55:09,378 :INFO :test_formSubmission :--------------------
+2021-03-15 14:55:09,378 :INFO :test_formSubmission :--------------------
+2021-03-15 14:55:09,378 :INFO :test_formSubmission :End of information
+2021-03-15 14:55:09,378 :INFO :test_formSubmission :End of information
+2021-03-15 14:55:09,414 :INFO :test_formSubmission :Web page message: ×
+Success! The Form has been submitted successfully!.
+2021-03-15 14:55:09,414 :INFO :test_formSubmission :Web page message: ×
+Success! The Form has been submitted successfully!.
+2021-03-15 14:55:15,957 :INFO :test_e2e :getting all the cards titles
+2021-03-15 14:55:15,971 :INFO :test_e2e :iphone X
+2021-03-15 14:55:15,976 :INFO :test_e2e :Samsung Note 8
+2021-03-15 14:55:15,982 :INFO :test_e2e :Nokia Edge
+2021-03-15 14:55:15,988 :INFO :test_e2e :Blackberry
+2021-03-15 14:55:16,080 :INFO :test_e2e :Entering country name as ind
+2021-03-15 14:55:21,263 :INFO :test_e2e :Text received from application is :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-15 14:55:21,263 :INFO :test_e2e :Success
+2021-03-15 15:07:14,466 :INFO :test_formSubmission :Entering Information
+2021-03-15 15:07:14,466 :INFO :test_formSubmission :--------------------
+2021-03-15 15:07:14,594 :INFO :test_formSubmission :Name: Kev, Email: test@gmail.com Gender: Male
+2021-03-15 15:07:14,594 :INFO :test_formSubmission :--------------------
+2021-03-15 15:07:14,594 :INFO :test_formSubmission :End of information
+2021-03-15 15:07:14,638 :INFO :test_formSubmission :Web page message: ×
+Success! The Form has been submitted successfully!.
+2021-03-15 15:07:14,963 :INFO :test_formSubmission :Entering Information
+2021-03-15 15:07:14,963 :INFO :test_formSubmission :Entering Information
+2021-03-15 15:07:14,963 :INFO :test_formSubmission :--------------------
+2021-03-15 15:07:14,963 :INFO :test_formSubmission :--------------------
+2021-03-15 15:07:15,084 :INFO :test_formSubmission :Name: Kelvin, Email: test123124@gmail.com Gender: Male
+2021-03-15 15:07:15,084 :INFO :test_formSubmission :Name: Kelvin, Email: test123124@gmail.com Gender: Male
+2021-03-15 15:07:15,084 :INFO :test_formSubmission :--------------------
+2021-03-15 15:07:15,084 :INFO :test_formSubmission :--------------------
+2021-03-15 15:07:15,084 :INFO :test_formSubmission :End of information
+2021-03-15 15:07:15,084 :INFO :test_formSubmission :End of information
+2021-03-15 15:07:15,122 :INFO :test_formSubmission :Web page message: ×
+Success! The Form has been submitted successfully!.
+2021-03-15 15:07:15,122 :INFO :test_formSubmission :Web page message: ×
+Success! The Form has been submitted successfully!.
+2021-03-15 15:07:21,204 :INFO :test_e2e :getting all the cards titles
+2021-03-15 15:07:21,217 :INFO :test_e2e :iphone X
+2021-03-15 15:07:21,223 :INFO :test_e2e :Samsung Note 8
+2021-03-15 15:07:21,229 :INFO :test_e2e :Nokia Edge
+2021-03-15 15:07:21,236 :INFO :test_e2e :Blackberry
+2021-03-15 15:07:21,331 :INFO :test_e2e :Entering country name as ind
+2021-03-15 15:07:26,513 :INFO :test_e2e :Text received from application is :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-16 15:50:35,886 :INFO :test_formSubmission :Entering Information
+2021-03-16 15:50:35,886 :INFO :test_formSubmission :--------------------
+2021-03-16 15:50:36,016 :INFO :test_formSubmission :Name: Kev, Email: test@gmail.com Gender: Male
+2021-03-16 15:50:36,016 :INFO :test_formSubmission :--------------------
+2021-03-16 15:50:36,016 :INFO :test_formSubmission :End of information
+2021-03-16 15:50:36,058 :INFO :test_formSubmission :Web page message: ×
+Success! The Form has been submitted successfully!.
+2021-03-16 15:50:36,377 :INFO :test_formSubmission :Entering Information
+2021-03-16 15:50:36,377 :INFO :test_formSubmission :Entering Information
+2021-03-16 15:50:36,378 :INFO :test_formSubmission :--------------------
+2021-03-16 15:50:36,378 :INFO :test_formSubmission :--------------------
+2021-03-16 15:50:36,490 :INFO :test_formSubmission :Name: Kelvin, Email: test123124@gmail.com Gender: Male
+2021-03-16 15:50:36,490 :INFO :test_formSubmission :Name: Kelvin, Email: test123124@gmail.com Gender: Male
+2021-03-16 15:50:36,491 :INFO :test_formSubmission :--------------------
+2021-03-16 15:50:36,491 :INFO :test_formSubmission :--------------------
+2021-03-16 15:50:36,491 :INFO :test_formSubmission :End of information
+2021-03-16 15:50:36,491 :INFO :test_formSubmission :End of information
+2021-03-16 15:50:36,527 :INFO :test_formSubmission :Web page message: ×
+Success! The Form has been submitted successfully!.
+2021-03-16 15:50:36,527 :INFO :test_formSubmission :Web page message: ×
+Success! The Form has been submitted successfully!.
+2021-03-16 15:50:42,856 :INFO :test_e2e :getting all the cards titles
+2021-03-16 15:50:42,869 :INFO :test_e2e :iphone X
+2021-03-16 15:50:42,875 :INFO :test_e2e :Samsung Note 8
+2021-03-16 15:50:42,880 :INFO :test_e2e :Nokia Edge
+2021-03-16 15:50:42,886 :INFO :test_e2e :Blackberry
+2021-03-16 15:50:42,975 :INFO :test_e2e :Entering country name as ind
+2021-03-16 15:50:48,154 :INFO :test_e2e :Text received from application is :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-16 15:50:48,155 :INFO :test_e2e :Success
+2021-03-16 15:54:40,170 :INFO :test_formSubmission :Entering Information
+2021-03-16 15:54:40,170 :INFO :test_formSubmission :--------------------
+2021-03-16 15:54:40,294 :INFO :test_formSubmission :Name: Kev, Email: test@gmail.com Gender: Male
+2021-03-16 15:54:40,294 :INFO :test_formSubmission :--------------------
+2021-03-16 15:54:40,294 :INFO :test_formSubmission :End of information
+2021-03-16 15:54:40,336 :INFO :test_formSubmission :Web page message: ×
+Success! The Form has been submitted successfully!.
+2021-03-16 15:54:40,663 :INFO :test_formSubmission :Entering Information
+2021-03-16 15:54:40,663 :INFO :test_formSubmission :Entering Information
+2021-03-16 15:54:40,663 :INFO :test_formSubmission :--------------------
+2021-03-16 15:54:40,663 :INFO :test_formSubmission :--------------------
+2021-03-16 15:54:40,784 :INFO :test_formSubmission :Name: Kelvin, Email: test123124@gmail.com Gender: Male
+2021-03-16 15:54:40,784 :INFO :test_formSubmission :Name: Kelvin, Email: test123124@gmail.com Gender: Male
+2021-03-16 15:54:40,784 :INFO :test_formSubmission :--------------------
+2021-03-16 15:54:40,784 :INFO :test_formSubmission :--------------------
+2021-03-16 15:54:40,784 :INFO :test_formSubmission :End of information
+2021-03-16 15:54:40,784 :INFO :test_formSubmission :End of information
+2021-03-16 15:54:40,819 :INFO :test_formSubmission :Web page message: ×
+Success! The Form has been submitted successfully!.
+2021-03-16 15:54:40,819 :INFO :test_formSubmission :Web page message: ×
+Success! The Form has been submitted successfully!.
+2021-03-16 15:54:46,161 :INFO :test_e2e :getting all the cards titles
+2021-03-16 15:54:46,174 :INFO :test_e2e :iphone X
+2021-03-16 15:54:46,180 :INFO :test_e2e :Samsung Note 8
+2021-03-16 15:54:46,186 :INFO :test_e2e :Nokia Edge
+2021-03-16 15:54:46,193 :INFO :test_e2e :Blackberry
+2021-03-16 15:54:46,281 :INFO :test_e2e :Entering country name as ind
+2021-03-16 15:54:51,465 :INFO :test_e2e :Text received from application is :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-16 15:54:51,465 :INFO :test_e2e :Success
+2021-03-16 16:00:33,312 :INFO :test_formSubmission :Entering Information
+2021-03-16 16:00:33,312 :INFO :test_formSubmission :--------------------
+2021-03-16 16:00:33,443 :INFO :test_formSubmission :Name: Kev, Email: test@gmail.com Gender: Male
+2021-03-16 16:00:33,443 :INFO :test_formSubmission :--------------------
+2021-03-16 16:00:33,443 :INFO :test_formSubmission :End of information
+2021-03-16 16:00:33,486 :INFO :test_formSubmission :Web page message: ×
+Success! The Form has been submitted successfully!.
+2021-03-16 16:00:33,494 :INFO :test_formSubmission :Entering Information
+2021-03-16 16:00:33,494 :INFO :test_formSubmission :Entering Information
+2021-03-16 16:00:33,494 :INFO :test_formSubmission :--------------------
+2021-03-16 16:00:33,494 :INFO :test_formSubmission :--------------------
+2021-03-16 16:00:33,926 :INFO :test_formSubmission :Name: Kelvin, Email: test123124@gmail.com Gender: Male
+2021-03-16 16:00:33,926 :INFO :test_formSubmission :Name: Kelvin, Email: test123124@gmail.com Gender: Male
+2021-03-16 16:00:33,926 :INFO :test_formSubmission :--------------------
+2021-03-16 16:00:33,926 :INFO :test_formSubmission :--------------------
+2021-03-16 16:00:33,926 :INFO :test_formSubmission :End of information
+2021-03-16 16:00:33,926 :INFO :test_formSubmission :End of information
+2021-03-16 16:00:33,962 :INFO :test_formSubmission :Web page message: ×
+Success! The Form has been submitted successfully!.
+2021-03-16 16:00:33,962 :INFO :test_formSubmission :Web page message: ×
+Success! The Form has been submitted successfully!.
+2021-03-16 16:00:39,437 :INFO :test_e2e :getting all the cards titles
+2021-03-16 16:00:39,451 :INFO :test_e2e :iphone X
+2021-03-16 16:00:39,457 :INFO :test_e2e :Samsung Note 8
+2021-03-16 16:00:39,463 :INFO :test_e2e :Nokia Edge
+2021-03-16 16:00:39,468 :INFO :test_e2e :Blackberry
+2021-03-16 16:00:39,561 :INFO :test_e2e :Entering country name as ind
+2021-03-16 16:00:44,740 :INFO :test_e2e :Text received from application is :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-16 16:00:44,741 :INFO :test_e2e :Success
+2021-03-16 16:01:23,362 :INFO :test_formSubmission :Entering Information
+2021-03-16 16:01:23,362 :INFO :test_formSubmission :--------------------
+2021-03-16 16:01:23,485 :INFO :test_formSubmission :Name: Kev, Email: test@gmail.com Gender: Male
+2021-03-16 16:01:23,486 :INFO :test_formSubmission :--------------------
+2021-03-16 16:01:23,486 :INFO :test_formSubmission :End of information
+2021-03-16 16:01:23,528 :INFO :test_formSubmission :Web page message: ×
+Success! The Form has been submitted successfully!.
+2021-03-16 16:01:23,847 :INFO :test_formSubmission :Entering Information
+2021-03-16 16:01:23,847 :INFO :test_formSubmission :Entering Information
+2021-03-16 16:01:23,847 :INFO :test_formSubmission :--------------------
+2021-03-16 16:01:23,847 :INFO :test_formSubmission :--------------------
+2021-03-16 16:01:23,962 :INFO :test_formSubmission :Name: Kelvin, Email: test123124@gmail.com Gender: Male
+2021-03-16 16:01:23,962 :INFO :test_formSubmission :Name: Kelvin, Email: test123124@gmail.com Gender: Male
+2021-03-16 16:01:23,963 :INFO :test_formSubmission :--------------------
+2021-03-16 16:01:23,963 :INFO :test_formSubmission :--------------------
+2021-03-16 16:01:23,963 :INFO :test_formSubmission :End of information
+2021-03-16 16:01:23,963 :INFO :test_formSubmission :End of information
+2021-03-16 16:01:23,998 :INFO :test_formSubmission :Web page message: ×
+Success! The Form has been submitted successfully!.
+2021-03-16 16:01:23,998 :INFO :test_formSubmission :Web page message: ×
+Success! The Form has been submitted successfully!.
+2021-03-16 16:01:29,851 :INFO :test_e2e :getting all the cards titles
+2021-03-16 16:01:29,864 :INFO :test_e2e :iphone X
+2021-03-16 16:01:29,869 :INFO :test_e2e :Samsung Note 8
+2021-03-16 16:01:29,875 :INFO :test_e2e :Nokia Edge
+2021-03-16 16:01:29,881 :INFO :test_e2e :Blackberry
+2021-03-16 16:01:29,970 :INFO :test_e2e :Entering country name as ind
+2021-03-16 16:01:35,152 :INFO :test_e2e :Text received from application is :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-03-16 16:01:35,152 :INFO :test_e2e :Success
+2021-03-16 17:08:13,767 :INFO :test_formSubmission :Entering Information
+2021-03-16 17:08:13,767 :INFO :test_formSubmission :--------------------
+2021-03-16 17:12:24,216 :INFO :test_formSubmission :Entering Information
+2021-03-16 17:12:24,216 :INFO :test_formSubmission :--------------------
+2021-03-16 17:13:29,670 :INFO :test_formSubmission :Entering Information
+2021-03-16 17:13:29,670 :INFO :test_formSubmission :--------------------
+2021-03-16 17:14:52,432 :INFO :test_formSubmission :Entering Information
+2021-03-16 17:14:52,432 :INFO :test_formSubmission :--------------------
+2021-03-16 17:15:50,868 :INFO :test_formSubmission :Entering Information
+2021-03-16 17:15:50,869 :INFO :test_formSubmission :--------------------
+2021-03-16 17:15:51,002 :INFO :test_formSubmission :Name: None, Email: None Gender: Male
+2021-03-16 17:15:51,002 :INFO :test_formSubmission :--------------------
+2021-03-16 17:15:51,002 :INFO :test_formSubmission :End of information
+2021-03-16 17:15:51,048 :INFO :test_formSubmission :Web page message: ×
+Success! The Form has been submitted successfully!.
